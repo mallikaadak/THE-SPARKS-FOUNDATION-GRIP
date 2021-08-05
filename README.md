@@ -1,2 +1,2 @@
-# TSF-TASK1-GRIP-JULY-21
-Student score prediction using supervised ML
+# THE SPARKS FOUNDATION - GRIP - JULY 2021
+Prediction using Supervised and Unsupervised Machine Learning
